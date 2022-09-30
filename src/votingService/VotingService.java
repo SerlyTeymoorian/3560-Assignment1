@@ -59,7 +59,7 @@ public class VotingService  implements iVote {
 		System.out.println("\n"); 
 	}
 //****************************************************************************//
-//							Helper Functions 
+//				Helper Functions 
 //****************************************************************************//
 		
 	//update the number of votes for a particular answer type
