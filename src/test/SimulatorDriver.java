@@ -16,7 +16,7 @@ public class SimulatorDriver {
 	public static void main(String[] args) {
 		
 //*********************************************************************************************//
-//							Create Question Type and Configure the Answers 
+//			Create Question Type and Configure the Answers 
 //*********************************************************************************************//
 		
 		//choose a question type: multiple choice 
@@ -37,7 +37,7 @@ public class SimulatorDriver {
 		 question.printQuesitonWithAnswers(); 
 		 
 //*********************************************************************************************//
-//					Randomly Generate a Number Students and the Answers
+//			Randomly Generate a Number Students and the Answers
 //*********************************************************************************************// 
 		 
 		//creating 50 students 
@@ -63,7 +63,7 @@ public class SimulatorDriver {
 		} 
 
 //*********************************************************************************************//
-//						Submit All the Students’ Answers to iVote Service
+//			Submit All the Students’ Answers to iVote Service
 //*********************************************************************************************// 	
 	   
 	    //create a voting service 
@@ -91,7 +91,7 @@ public class SimulatorDriver {
 	    
 	    
 //*********************************************************************************************//
-//		 		Call the Voting Service Output Function to Display the Result
+//		 	Call the Voting Service Output Function to Display the Result
 //*********************************************************************************************// 		    
 	   
 	    //print out the number of students voted 
@@ -106,7 +106,7 @@ public class SimulatorDriver {
 	}
 
 //*********************************************************************************************//
-//									Helper Function
+//				Helper Function
 //*********************************************************************************************// 	
 	
 	//Create random non repeating number 
